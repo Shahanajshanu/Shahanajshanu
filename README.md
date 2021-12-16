@@ -11,5 +11,7 @@
 -  2021 Goals : Contribute more t open sourse projects.
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahanajshanu&count_private=true&theme=tokyonight&showicons=true)]()
+![Shahanajshanu GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahanajshanu&theme=dark&show_icons=true)
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanajshanu&langs_count=5&theme=tokyonight)]()

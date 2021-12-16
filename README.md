@@ -9,3 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend every half day for travelling. 
 -  2021 Goals : Contribute more t open sourse projects.
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahanajshanu&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanajshanu&langs_count=5&theme=tokyonight)]()
